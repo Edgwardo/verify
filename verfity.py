@@ -6,8 +6,8 @@ import json
 import robloxpy
 from discord_webhook import DiscordWebhook
 
-DiscordWebhookURL = https://discord.com/api/webhooks/1307176210593484871/Iw52N1iKruqwGeNNWdBf5hvIfqjrHyC0sKfC9n3-mvUFhLu4rEZ84fGUchJ3rwQSFLrA
-DiscordWebhookURL_ERROR = https://discord.com/api/webhooks/1307176210593484871/Iw52N1iKruqwGeNNWdBf5hvIfqjrHyC0sKfC9n3-mvUFhLu4rEZ84fGUchJ3rwQSFLrA
+DiscordWebhookURL = "https://discord.com/api/webhooks/1307176210593484871/Iw52N1iKruqwGeNNWdBf5hvIfqjrHyC0sKfC9n3-mvUFhLu4rEZ84fGUchJ3rwQSFLrA"
+DiscordWebhookURL_ERROR = "https://discord.com/api/webhooks/1307176210593484871/Iw52N1iKruqwGeNNWdBf5hvIfqjrHyC0sKfC9n3-mvUFhLu4rEZ84fGUchJ3rwQSFLrA"
 
 
 class PostUserData:
