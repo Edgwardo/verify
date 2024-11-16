@@ -1,1 +1,1 @@
-print(nohomo)
+print("no homo")
